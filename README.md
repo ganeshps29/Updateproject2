@@ -1,0 +1,2 @@
+# Updateproject2
+I have update the project2 this is update to blog is 3 types of user is allowed 1. admin 2. author 3. user. admin is allowed to edit , add, delete the article . author only edit and user only allow the commands.  chat application is show the all user send message and recive the message display date and time is show in chat windows admin is allow the delete / black the particular user. user only update the profile 
